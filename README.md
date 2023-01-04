@@ -9,7 +9,7 @@
 [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fourresearch%2Fopenalex-api-tutorials/)
 
 A collection of Jupyter notebooks, each walking you through a common example of bibliometric analysis
-using scholarly data from the [OpenAlex API](https://docs.openalex.org/api). (:warning: Work In Progress).
+using scholarly data from the [OpenAlex API](https://docs.openalex.org/). (:warning: Work In Progress).
 
 
 ## :bulb: What is OpenAlex?
@@ -19,7 +19,7 @@ It's named after the ancient [Library of Alexandria](https://en.wikipedia.org/wi
 and made by the nonprofit [OurResearch](https://ourresearch.org/).
 
 <div align="center">
-<a href="https://docs.openalex.org/about-the-data">
+<a href="https://docs.openalex.org/#data">
 <img src="./resources/img/OpenAlex-entities.png" alt="OpenAlex base model" width="500px">
 </a>
 </div>
@@ -28,7 +28,7 @@ What makes OpenAlex stand out as a bibliographic data source is its Openness:
 * The data is made available under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
   That means it's in the public domain, and free to use in any way you like.
 
-* The primary way to access the data, is the [API](https://docs.openalex.org/api).
+* The primary way to access the data, is the [API](https://docs.openalex.org/#access).
   It is free, requires no authentication, and has no daily rate limits.
 
 
@@ -58,7 +58,7 @@ If you go local, though, please remember to install the Python packages specifie
 
 
 ## :book: Citation
-If you use OpenAlex in your research, please cite this [paper](https://arxiv.org/abs/2205.01833):
+If you use OpenAlex in your research, please cite this paper:
 > Priem, J., Piwowar, H., & Orr, R. (2022). _OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts._ ArXiv. https://arxiv.org/abs/2205.01833
 
-and don't forget to tell us about your project. We love to hear what you come up with using data from OpenAlex!
+and don't forget to [tell us](https://docs.openalex.org/#contact) about your project. We love to hear what you come up with using data from OpenAlex!
