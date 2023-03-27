@@ -1,4 +1,10 @@
 requests==2.27.1
-matplotlib==3.5.2
 pandas==1.5.3
+
+# Vizualization libraries
+matplotlib==3.5.2
+plotly==5.13.1
 seaborn==0.12.2
+
+# Geo
+country_converter==1.0.0
