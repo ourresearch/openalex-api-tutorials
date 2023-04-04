@@ -1,5 +1,6 @@
 requests==2.27.1
 pandas==1.5.3
+python-dotenv==1.0.0
 
 # Vizualization libraries
 matplotlib==3.5.2
