@@ -2,10 +2,13 @@ requests==2.27.1
 pandas==1.5.3
 python-dotenv==1.0.0
 
-# Vizualization libraries
+# Visualization libraries
 matplotlib==3.5.2
 plotly==5.13.1
 seaborn==0.12.2
+
+# Static visualization rendering
+kaleido==0.2.1
 
 # Geo
 country_converter==1.0.0
