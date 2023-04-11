@@ -4,7 +4,7 @@ python-dotenv==1.0.0
 
 # Visualization libraries
 matplotlib==3.5.2
-plotly==5.13.1
+plotly==5.14.1
 seaborn==0.12.2
 
 # Static visualization rendering
