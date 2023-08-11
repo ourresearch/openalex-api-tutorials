@@ -29,7 +29,7 @@ What makes OpenAlex stand out as a bibliographic data source is its Openness:
   That means it's in the public domain, and free to use in any way you like.
 
 * The primary way to access the data, is the [API](https://docs.openalex.org/#access).
-  It is free, requires no authentication, and has no daily rate limits.
+  It is free and requires no authentication.
 
 
 ## :notebook: What are Jupyter notebooks?
