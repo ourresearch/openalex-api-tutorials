@@ -1,11 +1,11 @@
-requests==2.27.1
-pandas==1.5.3
+requests==2.31.0
+pandas==2.1.1
 python-dotenv==1.0.0
 
 # Visualization libraries
-matplotlib==3.5.2
-plotly==5.14.1
-seaborn==0.12.2
+matplotlib==3.8.0
+plotly==5.17.0
+seaborn==0.13.0
 
 # Static visualization rendering
 kaleido==0.2.1
