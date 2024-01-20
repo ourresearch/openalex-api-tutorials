@@ -4,10 +4,6 @@
 
 # OpenAlex API tutorials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main)
-[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials)
-[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fourresearch%2Fopenalex-api-tutorials/)
-
 A collection of Jupyter notebooks, each walking you through a common example of bibliometric analysis
 using scholarly data from the [OpenAlex API](https://docs.openalex.org/). (:warning: Work In Progress).
 
@@ -56,6 +52,59 @@ Many IDEs also support running Jupyter notebooks out of the box or via a plugin.
 it may be a good idea to consult its docs or marketplace.
 If you go local, though, please remember to install the Python packages specified in the `requirements.txt` file.
 
+### Notebooks
+
+- getting-started
+
+  - get-random-entity:
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/getting-started/get-random-entity.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/getting-started/get-random-entity.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/getting-started/get-random-entity.ipynb)
+  - paging
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/getting-started/paging.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/getting-started/paging.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/getting-started/paging.ipynb)
+  - premium
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/getting-started/premium.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/getting-started/premium.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/getting-started/premium.ipynb)
+
+- authors:
+
+  - hirsch index:
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/authors/hirsch-index.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/authors/hirsch-index.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/authors/hirsch-index.ipynb)
+
+- works
+
+  - openalex works:
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/openalex_works/openalex_works.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/openalex_works/openalex_works.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/openalex_works/openalex_works.ipynb)
+
+- institutions:
+  - japan sources:
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/institutions/japan_sources.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/japan_sources.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/japan_sources.ipynb)
+  - oa percentage
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/institutions/oa-percentage.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/oa-percentage.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/oa-percentage.ipynb)
+  - uw collaborators:
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/institutions/uw-collaborators.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/uw-collaborators.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/uw-collaborators.ipynb)
+  - uw collaborators copy:
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/institutions/uw-collaborators%20copy.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/uw-collaborators%20copy.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/uw-collaborators%20copy.ipynb)
+- data questions
+  - counts within country
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ourresearch/openalex-api-tutorials/main?filepath=notebooks/data_questions/counts_within_country.ipynb)
+    - [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ourresearch/openalex-api-tutorials/blob/main/notebooks/data_questions/counts_within_country.ipynb)
+    - [![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?url=https://www.github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/data_questions/counts_within_country.ipynb)
 
 ## :book: Citation
 If you use OpenAlex in your research, please cite this paper:
